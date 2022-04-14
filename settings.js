@@ -18,7 +18,7 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "Fellbot-Mdོ" //namabot kalian
+global.botname = "Lordboots-Mdོ" //namabot kalian
 global.ownername= "ᴹᴿ᭄ Rafaellོ ×፝֟͜×" //nama kalian
 global.myweb ="https://api-alphabot.herokuapp.com/" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCAKsS8Qo1pTndjVHvN_G7pQ" //bebas asal jan hapus
@@ -30,8 +30,8 @@ global.ownernomerr = "+6289675970738" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6289675970738","6289675970738","6289675970738"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© RafaelBot-mdོ' //sticker wm ubah
+global.owner = ["6289675970738"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© Rafael-mdོ' //sticker wm ubah
 global.author = 'Di Buat Oleh Rafael' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
